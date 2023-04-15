@@ -1,1 +1,1 @@
-0 string SCHOOL printf("%s: School data")
+0 string SCHOOL "School data"
