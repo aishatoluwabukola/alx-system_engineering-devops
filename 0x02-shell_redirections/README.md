@@ -179,37 +179,3 @@ Based on the the /etc/passwd file.
 <br>
 <br>
 
-
-
-#### 21. esreveR
-
-Write a script that reverse its input.
-<br>
-
-
-
-#### 22. DJ Cut Killer
-
-Write a script that displays all users and their home directories, sorted by users.
-<br>
-Based on the the /etc/passwd file.
-<br>
-<br>
-
-
-
-#### 21. esreveR
-
-Write a script that reverse its input.
-\
-
-
-
-#### 22. DJ Cut Killer
-
-Write a script that displays all users and their home directories, sorted by users.
-\
-Based on the the /etc/passwd file.
-\
-\
-
